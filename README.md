@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @W888mi
 - 👀 I’m interested in HTML
-- 🌱 I’m currently learning HTML and Java
-- 😄 Pronouns He/Him
+- 🌱 I’m currently learning HTML and Java and Python
+- 😄 Pronouns He/Him 
 
 
 <!---
